@@ -1,5 +1,7 @@
 # GitLab Runner for Unraid
 
+Created by [wildfirebill](https://github.com/wildfirebill)
+
 A GitLab Runner Docker image designed for Unraid, with automatic registration on first start.
 
 Based on `gitlab/gitlab-runner:alpine` — adds auto-registration via environment variables and ships with an Unraid Community Applications template.
